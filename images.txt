@@ -1,1 +1,2 @@
 postgres
+--platform=linux/arm64
